@@ -19,7 +19,7 @@ function progressicon_addjs() {
 	wp_enqueue_script(
 		'piecon-js',
 		plugins_url( 'js/piecon.min.js', __FILE__ ),
-		array( 'jquery' ),
+		array(),
 		'1.0',
 		true
 	);
@@ -27,7 +27,7 @@ function progressicon_addjs() {
 	wp_enqueue_script(
 		'progressicon-js',
 		plugins_url( 'js/progressicon.js', __FILE__ ),
-		array( 'piecon-js', 'jquery' ),
+		array( 'piecon-js'),
 		'1.0',
 		true
 	);
