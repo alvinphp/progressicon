@@ -1,4 +1,4 @@
-AlvinAlvin<h2>PROGRESSICON</h2>
+<h2>PROGRESSICON</h2>
 <p>Progressicon es un plugin de WordPress que permite mostrar iconos de progreso dinámicos en tu sitio web, ideal para notificar estados, completar tareas o mostrar progreso en tiempo real a los visitantes.<p/>
 
 
