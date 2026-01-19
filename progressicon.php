@@ -27,7 +27,7 @@ function progressicon_addjs() {
 	wp_enqueue_script(
 		'progressicon-js',
 		plugins_url( 'js/progressicon.js', __FILE__ ),
-		array( 'piecon-js'),
+		array( 'piecon-js' ),
 		'1.0',
 		true
 	);
