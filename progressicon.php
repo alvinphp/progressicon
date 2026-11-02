@@ -15,6 +15,11 @@ if ( ! defined( 'ABSPATH' ) ) {
 	exit;
 }
 
+/**
+ * Enqueue plugin JavaScript files.
+ *
+ * @return void
+ */
 function progressicon_addjs() {
 	wp_enqueue_script(
 		'piecon-js',
