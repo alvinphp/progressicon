@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name:     progressicon
+ * Plugin Name:     progressicon.
  * Description:     Plugin que muestra un favicon y una barra de progreso.
  * Version:         1.0
  * Author:          alvin gil
