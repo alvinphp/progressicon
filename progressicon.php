@@ -4,7 +4,7 @@
  * Description:     Plugin que muestra un favicon y una barra de progreso.
  * Version:         1.0
  * Author:          alvin gil Saldaña.
- * Text Domain:     progressicon
+ * Text Domain:     progressicon.
  * License:         GPLv2 or later
  * License URI:     https://www.gnu.org/licenses/gpl-2.0.html
  *
